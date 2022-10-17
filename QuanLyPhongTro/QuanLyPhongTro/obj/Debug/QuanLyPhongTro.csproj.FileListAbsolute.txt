@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmMain.resources
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ChildForm.frmWelcome.resources
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ChildForm.frmLoaiPhong.resources
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ChildForm.frmPhong.resources
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ChildForm.frmXuLyPhong.resources
+C:\Users\ASUS\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ChildForm.frmDichVu.resources
